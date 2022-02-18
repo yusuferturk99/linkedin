@@ -12,13 +12,13 @@
       <b-button class="mb-3" variant="outline-primary">1,043 Connections</b-button>
     </div>
     </div>
-    <div class="card" style="width: 30%; float: left; text-align: left; margin-bottom: 30px;"><p>YOUR DASHBOARD <a href="#" style=" margin-left: 120px; text-decoration: none">GO TO STATS</a></p><h1>367</h1><p>views today</p><h1>15</h1><p>posts view</p><h1>9</h1><p>search appeareances</p></div>
+    <div class="card" style="width: 20%; float: left; text-align: left; margin-bottom: 30px;"><p>YOUR DASHBOARD <a href="#" style=" margin-left: 40px; text-decoration: none">GO TO STATS</a></p><h1>367</h1><p>views today</p><h1>15</h1><p>posts view</p><h1>9</h1><p>search appeareances</p></div>
     <div class="card" style="text-align: left; margin-top: 20px; width: 50%; float: left;">      
     <div><h1 style="font-size: 30px;">About</h1><p>I'm more experienced in eCommerce web projects and mobile banking apps, but also like to work with creative projects, such as landing pages or unusual corporate websites.</p>
     <b-button variant="outline-primary">See More</b-button>
     </div>
     </div>
-    <div class="card" style="width: 30%; float: left;text-align: left; margin-bottom: 30px;">
+    <div class="card" style="width: 20%; float: left;text-align: left; margin-bottom: 30px;">
       <p>YOUR VISITORS</p>
       <img src="https://www.fakepersongenerator.com/Face/male/male20151086256713043.jpg" alt="" style="width: 50px; border-radius: 50%"><h5>Darlene Black</h5>
       <img src="https://www.fakepersongenerator.com/Face/male/male20151086256713043.jpg" alt="" style="width: 50px; border-radius: 50%"><h5>Darlene Green</h5>
@@ -37,7 +37,7 @@
             <a href="#" style="text-decoration: none;"><b>SHOW ALL (12)</b></a>
         </div>
     </div>
-    <div class="card" style="width: 30%; float: left;">
+    <div class="card" style="width: 20%; float: left;">
       <p style="text-align: left;">YOU MAY LIKE THESE COURSES</p>
       <img src="https://www.fakepersongenerator.com/Face/male/male20151086256713043.jpg" alt="" style="width: 75px; margin-left: 20px; margin-bottom: 20px"><div>UX Foundations: Prototyping</div>
       <img src="https://www.fakepersongenerator.com/Face/male/male20151086256713043.jpg" alt="" style="width: 75px; margin-left: 20px; margin-bottom: 20px"><div>Designing with Adobe</div>
